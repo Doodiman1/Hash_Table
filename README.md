@@ -22,23 +22,6 @@ This C program showcases a solution to the "Two Sum" problem using a hash table 
 
 5. **Memory Management**: Proper memory allocation and deallocation are ensured. Memory is allocated for the result array and any dynamically created `Entry` structures, and it is freed when it's no longer needed.
 
-## Example
-
-Suppose you have the following input:
-  int nums[] = {2, 7, 11, 15, 30, 473, 70};
-  int target = 475;
-
-Running the program with this input would yield the result:
-  Target: 475
-  Index created, Key: 2 || Value: 0
-  Index created, Key: 7 || Value: 1
-  Index created, Key: 11 || Value: 2
-  Index created, Key: 15 || Value: 3
-  Index created, Key: 30 || Value: 4
-  Index created, Key: 473 || Value: 5
-  Index created, Key: 70 || Value: 6
-  Result #1: 5
-  Result #2: 6
 
 
 
